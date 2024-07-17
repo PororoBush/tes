@@ -1,0 +1,41 @@
+body{
+    background-color: #ffecdc;
+    font-family: cursive;
+
+}
+.box-ucapan{
+    position: relative;
+    text-align: center;
+    align-items: last baseline;
+    height: 10vh;
+    background-color: none;
+    font-size: 22;
+}
+.sapaan{
+    font-size: 45;
+}
+.box-amplop{
+    display: flex;
+    justify-content: center;
+    align-items:last baseline;
+    height: 50vh;
+    width: 100%;
+}
+.box-isi{
+    height: 100%;
+    width: 150%;
+    display: flex;
+    justify-content: center;
+}
+.box-bawah{
+    position: relative;
+    text-align: center;
+    font-size: 45;
+    /* background-color: aqua; */
+}
+.pita{
+    /* background-color: black; */
+    position: relative;
+    justify-content: center;
+    text-align: center;
+}
